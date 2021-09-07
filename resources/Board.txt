@@ -1,0 +1,21 @@
+1 5 5
+tolr+
+rtlrr
+ll+tr
+rrst+
++rlrt
+0 7 5
+rlllr
+lrrrl
+lrrrl
+srllt
+rrrrl
+rrrrl
+olllr
+2 6 7
+tlor+tr
++rrltrr
+rrllrrt
+lrr+lrr
+rlrsrrr
++trtrlr
