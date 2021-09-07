@@ -1,4 +1,4 @@
-# Lode Runner Game
+# Pipes Game
 ## Description
 Implemention of the puzzle game Pipes written in C++.
 
@@ -15,5 +15,5 @@ Implemention of the puzzle game Pipes written in C++.
 
 ## Screenshots
 <img src="images/pipes_menu.PNG" width="70%" height="70%">
-<img src="images/level.PNG" width="100%" height="100%">
+<img src="images/level.png" width="100%" height="100%">
 <img src="images/level_completed.PNG" width="100%" height="100%">
